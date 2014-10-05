@@ -1,5 +1,5 @@
 # Todo App using Angluar Node.js and Parse.com
-# Thanks to scotch.io http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular from which basic boiler plate has been conceived
+### Thanks to scotch.io http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular from which basic boiler plate has been conceived
 
 ## Requirements
 
